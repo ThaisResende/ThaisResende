@@ -1,5 +1,5 @@
-##### Ola , Bem Vindos 😃
-### Me Chamo Thais , Sou Estudante De Analise e Desenvolvimento de Sistema ,Atualmente Estou Estudando Para Ser Uma Desenvolvedora Front End , Procuro Uma oportunidade na area.
+## Ola , Bem Vindos 😃
+###### Me Chamo Thais , Sou Estudante De Análise e Desenvolvimento de Sistema ,Atualmente Estou Estudando Para Ser Uma Desenvolvedora Front End .
 <div align="center">
   <a href="https://github.com/ThaisResende">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisResende&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
