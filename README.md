@@ -1,4 +1,4 @@
-## Ola , Bem Vindos 😃
+## Hi , Bem Vindos 😃
 ###### Me Chamo Thais , Sou Estudante De Análise e Desenvolvimento de Sistema ,Atualmente Estou Estudando Para Ser Uma Desenvolvedora Front-End 
 <div align="center">
   <a href="https://github.com/ThaisResende">
