@@ -9,3 +9,5 @@ Me Chamo Thais , Sou estudante de analise e desenvolvimento de sistema e estou s
   <img align="center" alt="sass-CSS" height="30" width="60" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="bootstrap-CSS" height="30" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </div>
+
+<img align="center" alt="Thay-CSS" src="https://picrew.me/share?cd=z0SQiZjl6v #Picrew #AmphyPop_Doll_Maker">
