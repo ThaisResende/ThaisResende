@@ -1,4 +1,4 @@
-👋 Olá Bem vindos ! 
+👋 Olá Bem vindos ao meu GitHub ! 
 
 Me Chamo Thais , Sou estudante de analise e desenvolvimento de sistema e estou seguindo pra ser uma Desenvolvedora Front-End.
 <div style="display: inline_block"><br>
